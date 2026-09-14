@@ -1,0 +1,6 @@
+{
+  "name": "ELEVARE - Vertical Transit Architectures",
+  "description": "High-velocity vertical mobility, German-engineered traction architectures, 3D lift shaft simulation, and IoT destination dispatch control for prestigious NCR high-rises and luxury penthouses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
